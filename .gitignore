@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DocLens local document data
+data/*
+!data/.gitkeep
+
+# DocLens generated outputs
+outputs/*
+!outputs/.gitkeep
